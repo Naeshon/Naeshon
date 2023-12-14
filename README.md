@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Naeshon/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Naeshon/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Naeshon/configure-ad)
+  - [Creating a Virtual Machine & Logging In Through Remote Desktop](https://github.com/Naeshon/creating-vms)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Naeshon/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
