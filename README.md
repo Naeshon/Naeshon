@@ -7,7 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Naeshon/post-install-config)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine & Logging In Through Remote Desktop](https://github.com/Naeshon/creating-vms)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Naeshon/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
